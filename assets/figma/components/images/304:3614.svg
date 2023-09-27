@@ -1,14 +1,14 @@
-<svg width="787" height="264" viewBox="0 0 787 264" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="787" height="263.683" rx="24" fill="url(#pattern0)"/>
+<svg width="768" height="264" viewBox="0 0 768 264" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="768" height="263.683" rx="24" fill="url(#pattern0)"/>
 <g filter="url(#filter0_d_304_3614)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M705.031 145L697.5 139L705.031 133V137H710.052V133L717.583 139L710.052 145V141H705.031V145ZM703.776 135.41L699.27 139L703.776 142.59V140H711.307V142.59L715.801 139L711.307 135.42V138H703.776V135.41Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M688.01 145L680.661 139L688.01 133V137H692.91V133L700.259 139L692.91 145V141H688.01V145ZM686.785 135.41L682.388 139L686.785 142.59V140H694.134V142.59L698.519 139L694.134 135.42V138H686.785V135.41Z" fill="white"/>
 </g>
-<path d="M710.832 135.42V137.52H708.169H704.276V135.42V134.384L703.465 135.029L698.959 138.609L698.467 138.999L698.958 139.391L703.464 142.981L704.276 143.628V142.59V140.5H708.169H710.832V142.59V143.633L711.645 142.98L716.114 139.39L716.6 139L716.113 138.61L711.645 135.03L710.832 134.379V135.42Z" fill="black" stroke="white"/>
+<path d="M693.659 135.42V137.52H691.072H687.285V135.42V134.368L686.469 135.032L682.072 138.612L681.597 139L682.072 139.387L686.469 142.977L687.285 143.644V142.59V140.5H691.072H693.659V142.59V143.649L694.477 142.976L698.837 139.386L699.307 139L698.837 138.614L694.476 135.034L693.659 134.363V135.42Z" fill="black" stroke="white"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_304_3614" transform="matrix(0.000684932 0 0 0.00204428 0 -0.148035)"/>
+<use xlink:href="#image0_304_3614" transform="matrix(0.000684932 0 0 0.00199492 0 -0.13239)"/>
 </pattern>
-<filter id="filter0_d_304_3614" x="695.7" y="132.2" width="23.6829" height="15.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_304_3614" x="678.861" y="132.2" width="23.1981" height="15.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="1"/>
