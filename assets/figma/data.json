@@ -1,7 +1,8 @@
 {
 	"components": [
 		"Test",
-		"Clips",
-		"Check box"
+		"Check box",
+		"Spinner",
+		"Clips"
 	]
 }
