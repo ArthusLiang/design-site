@@ -2,7 +2,7 @@
 	"components": [
 		"Test",
 		"Check box",
-		"Spinner",
-		"Clips"
+		"Clips",
+		"Spinner"
 	]
 }
