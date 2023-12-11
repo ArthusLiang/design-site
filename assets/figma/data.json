@@ -1,13 +1,13 @@
 {
 	"components": [
-		"Test",
-		"Decorator",
-		"Spinner",
-		"Chip",
-		"Checkbox",
-		"Dialog",
-		"Chips Test",
 		"Badge",
-		"Avatars"
+		"Dialog",
+		"Test",
+		"Avatars",
+		"Checkbox",
+		"Spinner",
+		"Chips Test",
+		"Decorator",
+		"Chip"
 	]
 }
