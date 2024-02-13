@@ -1,7 +1,7 @@
-<svg width="99" height="158" viewBox="0 0 99 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="99" height="136" viewBox="0 0 99 136" fill="none" xmlns="http://www.w3.org/2000/svg">
 <mask id="path-1-inside-1_2029_8981" fill="white">
-<path d="M0 0H99V158H0V0Z"/>
+<path d="M0 0H99V136H0V0Z"/>
 </mask>
-<path d="M0 0H99V158H0V0Z" fill="#1A1A1A"/>
-<path d="M99 158V159H100V158H99ZM98 0V158H100V0H98ZM99 157H0V159H99V157Z" fill="white" fill-opacity="0.3" mask="url(#path-1-inside-1_2029_8981)"/>
+<path d="M0 0H99V136H0V0Z" fill="#1A1A1A"/>
+<path d="M99 136V137H100V136H99ZM98 0V136H100V0H98ZM99 135H0V137H99V135Z" fill="white" fill-opacity="0.3" mask="url(#path-1-inside-1_2029_8981)"/>
 </svg>
