@@ -1,15 +1,15 @@
 {
 	"components": [
-		"Progress Bar",
+		"Templates",
 		"Badge",
 		"Test",
-		"Decorator",
 		"Spinner",
-		"Templates",
 		"Avatars",
-		"Dialog",
+		"Decorator",
+		"Progress Bar",
 		"Chip",
 		"Chips Test",
+		"Dialog",
 		"Stepper",
 		"List"
 	]
