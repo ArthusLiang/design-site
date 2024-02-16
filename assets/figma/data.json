@@ -1,17 +1,17 @@
 {
 	"components": [
-		"Badge  (In Review)",
 		"Test",
+		"Decorator  (In Review)",
+		"Badge  (In Review)",
+		"Spinner",
 		"Progress Bar  (In Review)",
 		"Avatar (In Review)",
-		"Decorator  (In Review)",
-		"Spinner",
-		"Dialog (In Reivew)",
-		"Chip  (In Review)",
-		"Templates",
-		"Stepper",
-		"Tab (In Review)",
 		"Chips Test",
+		"Stepper (Dev review)",
+		"Chip  (In Review)",
+		"Dialog (In Reivew)",
+		"Tab (Need Dev Review)",
+		"Templates",
 		"List (In Review)"
 	]
 }
