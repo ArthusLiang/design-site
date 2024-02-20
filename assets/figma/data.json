@@ -1,19 +1,20 @@
 {
 	"components": [
-		"Test",
-		"Badge  (In Review)",
 		"Templates",
-		"Progress Bar  (In Review)",
-		"Decorator  (In Review)",
-		"Spinner (Dev Review)",
-		"Tab (Dev Review)",
+		"Test",
 		"Chips Test",
-		"Dialog (In Reivew)",
 		"Avatar (In Review)",
-		"Stepper (Dev review)",
-		"Chip  (In Review)",
+		"Badge  (In Review)",
 		"Button (In Review)",
-		"Toast (In Review)",
-		"List (In Review)"
+		"Chip  (In Review)",
+		"Decorator  (In Review)",
+		"Dialog (In Reivew)",
+		"List (In Review)",
+		"Progress Bar  (In Review)",
+		"Select  (In Review)",
+		"Spinner (Dev Review)",
+		"Stepper (Dev review)",
+		"Tab (Dev Review)",
+		"Toast (In Review)"
 	]
 }
