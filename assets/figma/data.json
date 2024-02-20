@@ -2,7 +2,6 @@
 	"components": [
 		"Templates",
 		"Test",
-		"Chips Test",
 		"Avatar (In Review)",
 		"Badge  (In Review)",
 		"Button (In Review)",
@@ -15,6 +14,6 @@
 		"Spinner (Dev Review)",
 		"Stepper (Dev review)",
 		"Tab (Dev Review)",
-		"Toast (In Review)"
+		"Toast (Dev Review)"
 	]
 }
