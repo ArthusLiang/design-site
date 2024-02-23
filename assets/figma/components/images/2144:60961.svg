@@ -9,8 +9,10 @@
 </mask>
 <path d="M29 270C29 265.029 33.0294 261 38 261H250V263H38C34.134 263 31 266.134 31 270H29ZM250 295H38C33.0294 295 29 290.971 29 286H31C31 289.866 34.134 293 38 293H250V295ZM38 295C33.0294 295 29 290.971 29 286V270C29 265.029 33.0294 261 38 261V263C34.134 263 31 266.134 31 270V286C31 289.866 34.134 293 38 293V295ZM250 262V294V262Z" fill="white" fill-opacity="0.5" mask="url(#path-4-inside-2_2144_60961)"/>
 <g filter="url(#filter0_ddd_2144_60961)">
+<g clip-path="url(#clip0_2144_60961)">
 <path d="M30 270C30 265.582 33.5817 262 38 262H250V294H38C33.5817 294 30 290.418 30 286V270Z" fill="white" fill-opacity="0.11" shape-rendering="crispEdges"/>
 <rect width="1" height="30" transform="translate(249 263)" fill="white" fill-opacity="0.5"/>
+</g>
 </g>
 <mask id="path-7-inside-3_2144_60961" fill="white">
 <path d="M250 262H274C278.418 262 282 265.582 282 270V286C282 290.418 278.418 294 274 294H250V262Z"/>
@@ -39,5 +41,8 @@
 <feBlend mode="normal" in2="effect2_dropShadow_2144_60961" result="effect3_dropShadow_2144_60961"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect3_dropShadow_2144_60961" result="shape"/>
 </filter>
+<clipPath id="clip0_2144_60961">
+<path d="M30 270C30 265.582 33.5817 262 38 262H250V294H38C33.5817 294 30 290.418 30 286V270Z" fill="white"/>
+</clipPath>
 </defs>
 </svg>
