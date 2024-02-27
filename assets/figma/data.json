@@ -1,12 +1,12 @@
 {
 	"components": [
-		"🟢 Progress Bar ",
-		"Test",
-		"Checkbox (redo-tables)",
 		"Badge (redo-tables)",
+		"Checkbox (redo-tables)",
+		"Test",
+		"🟢 Progress Bar ",
 		"Avatar (redo-tables)",
-		"Templates ",
 		"🟢 Stepper",
+		"Templates ",
 		"🟢 Select"
 	]
 }
