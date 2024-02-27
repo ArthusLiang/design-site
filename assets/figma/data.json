@@ -1,19 +1,12 @@
 {
 	"components": [
+		"🟢 Progress Bar ",
 		"Test",
-		"Badge (In Review)",
-		"Progress Bar  (In Review)",
-		"Decorator  (In Review)",
+		"Checkbox (redo-tables)",
+		"Badge (redo-tables)",
+		"Avatar (redo-tables)",
 		"Templates ",
-		"Avatar (In Review)",
-		"Dialog (In Reivew)",
-		"Button (Doc Incomplete)",
-		"Chip  (In Review)",
-		"List (In Review)",
-		"Stepper (Dev review)",
-		"Toast (Dev Review)",
-		"Spinner (Dev Review)",
-		"Tab (Dev Review)",
-		"Select  (In Review)"
+		"🟢 Stepper",
+		"🟢 Select"
 	]
 }
