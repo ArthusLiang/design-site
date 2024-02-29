@@ -6,37 +6,37 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"🟢 Progress Bar ": {
-					"title": "🟢 Progress Bar ",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
 				"Test": {
 					"title": "Test",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
-				"Avatar (redo-tables)": {
-					"title": "Avatar (redo-tables)",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"Index": {
 					"title": "Index",
 					"desc": "Index"
 				},
+				"Checkbox (redo-tables)": {
+					"title": "Checkbox (redo-tables)",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				},
 				"Badge (redo-tables)": {
 					"title": "Badge (redo-tables)",
 					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
-				"Templates ": {
-					"title": "Templates ",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				"🟢 Progress Bar ": {
+					"title": "🟢 Progress Bar ",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				},
+				"Avatar (redo-tables)": {
+					"title": "Avatar (redo-tables)",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"🟢 Stepper (redo-tables)": {
 					"title": "🟢 Stepper (redo-tables)",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
-				"Checkbox (redo-tables)": {
-					"title": "Checkbox (redo-tables)",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				"Templates ": {
+					"title": "Templates ",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
 				"🟢 Select": {
 					"title": "🟢 Select",
@@ -52,6 +52,10 @@
 					"title": "Logo Guideline",
 					"desc": "Logo Guideline"
 				},
+				"Grid & Layout ": {
+					"title": "Grid & Layout ",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				},
 				"AX Guideline": {
 					"title": "AX Guideline",
 					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
@@ -59,10 +63,6 @@
 				"Index": {
 					"title": "Index",
 					"desc": "Index"
-				},
-				"Grid & Layout ": {
-					"title": "Grid & Layout ",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"Color Guideline": {
 					"title": "Color Guideline",
