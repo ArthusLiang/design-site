@@ -6,13 +6,21 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
+				"Badge (redo-tables)": {
+					"title": "Badge (redo-tables)",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
+				},
 				"Test": {
 					"title": "Test",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"Badge (redo-tables)": {
-					"title": "Badge (redo-tables)",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
+				"Index": {
+					"title": "Index",
+					"desc": "Index"
+				},
+				"Checkbox (redo-tables)": {
+					"title": "Checkbox (redo-tables)",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
 				"🟢 Progress Bar ": {
 					"title": "🟢 Progress Bar ",
@@ -25,14 +33,6 @@
 				"Templates ": {
 					"title": "Templates ",
 					"desc": "Templates "
-				},
-				"Components": {
-					"title": "Components",
-					"desc": "Components"
-				},
-				"Checkbox (redo-tables)": {
-					"title": "Checkbox (redo-tables)",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
 				"🟢 Stepper": {
 					"title": "🟢 Stepper",
@@ -52,17 +52,9 @@
 					"title": "Logo Guideline",
 					"desc": "Logo Guideline"
 				},
-				"Guidelines": {
-					"title": "Guidelines",
-					"desc": "Guidelines"
-				},
-				"Grid & Layout ": {
-					"title": "Grid & Layout ",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
-				},
-				"Color Guideline": {
-					"title": "Color Guideline",
-					"desc": "Color Guideline"
+				"Index": {
+					"title": "Index",
+					"desc": "Index"
 				},
 				"AX Guideline": {
 					"title": "AX Guideline",
@@ -71,6 +63,14 @@
 				"Illustration Guideline ": {
 					"title": "Illustration Guideline ",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"Grid & Layout ": {
+					"title": "Grid & Layout ",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				},
+				"Color Guideline": {
+					"title": "Color Guideline",
+					"desc": "Color Guideline"
 				}
 			}
 		}
