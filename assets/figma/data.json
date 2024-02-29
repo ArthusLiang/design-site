@@ -18,9 +18,9 @@
 					"title": "Index",
 					"desc": "Index"
 				},
-				"Checkbox (redo-tables)": {
-					"title": "Checkbox (redo-tables)",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				"Templates ": {
+					"title": "Templates ",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
 				"🟢 Progress Bar ": {
 					"title": "🟢 Progress Bar ",
@@ -30,13 +30,13 @@
 					"title": "Avatar (redo-tables)",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
-				"Templates ": {
-					"title": "Templates ",
-					"desc": "Templates "
-				},
-				"🟢 Stepper": {
-					"title": "🟢 Stepper",
+				"🟢 Stepper (redo-tables)": {
+					"title": "🟢 Stepper (redo-tables)",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
+				},
+				"Checkbox (redo-tables)": {
+					"title": "Checkbox (redo-tables)",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
 				"🟢 Select": {
 					"title": "🟢 Select",
@@ -48,21 +48,13 @@
 			"title": "design guidelines",
 			"desc": "design guidelines",
 			"children": {
-				"Logo Guideline": {
-					"title": "Logo Guideline",
-					"desc": "Logo Guideline"
-				},
-				"Index": {
-					"title": "Index",
-					"desc": "Index"
-				},
 				"AX Guideline": {
 					"title": "AX Guideline",
 					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
-				"Illustration Guideline ": {
-					"title": "Illustration Guideline ",
-					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				"Logo Guideline": {
+					"title": "Logo Guideline",
+					"desc": "Logo Guideline"
 				},
 				"Grid & Layout ": {
 					"title": "Grid & Layout ",
@@ -71,6 +63,14 @@
 				"Color Guideline": {
 					"title": "Color Guideline",
 					"desc": "Color Guideline"
+				},
+				"Illustration Guideline ": {
+					"title": "Illustration Guideline ",
+					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"Index": {
+					"title": "Index",
+					"desc": "Index"
 				}
 			}
 		}
