@@ -10,6 +10,14 @@
 					"title": "Test",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
+				"Checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				},
+				"Badge": {
+					"title": "Badge",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
+				},
 				"🟢 Progress Bar ": {
 					"title": "🟢 Progress Bar ",
 					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
@@ -18,33 +26,41 @@
 					"title": "Index",
 					"desc": "Index"
 				},
-				"Badge (redo-tables)": {
-					"title": "Badge (redo-tables)",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
+				"🟢 Tab ": {
+					"title": "🟢 Tab ",
+					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
 				},
-				"Avatar (redo-tables)": {
-					"title": "Avatar (redo-tables)",
+				"Avatar": {
+					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
-				},
-				"Templates ": {
-					"title": "Templates ",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
-				"Checkbox (redo-tables)": {
-					"title": "Checkbox (redo-tables)",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
 				"🟢 Stepper (redo-tables)": {
 					"title": "🟢 Stepper (redo-tables)",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
-				"🟢 Tab ": {
-					"title": "🟢 Tab ",
-					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				"Templates ": {
+					"title": "Templates ",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"🟢 Select": {
-					"title": "🟢 Select",
+				"Select  (Dev Review)": {
+					"title": "Select  (Dev Review)",
 					"desc": "Selects present a list of options from which a user can select one option, or several. A selected option can represent a value in a form, or can be used as an action to filter or sort existing content."
+				},
+				"Toast (Comp Review)": {
+					"title": "Toast (Comp Review)",
+					"desc": "The Toast component is a non-intrusive message display element used to deliver brief and important notifications to users."
+				},
+				"Chip (Migrate Review)": {
+					"title": "Chip (Migrate Review)",
+					"desc": "Chips are used to show added items within a form, make selections, filter content, or trigger interaction. These items can be valid or invalid."
+				},
+				"List (Component review)": {
+					"title": "List (Component review)",
+					"desc": "The list component is a UI element that displays a list of selectable options for the user. It can contain a variety of other components like images, avatars, controls, icons, or multiple lines of text."
+				},
+				"Search (Migration Review)": {
+					"title": "Search (Migration Review)",
+					"desc": "Search offers users a way to explore a website or application using keywords. Search can be used as the primary means of discovering content or as a filter to aid the user in finding content."
 				}
 			}
 		},
@@ -52,13 +68,9 @@
 			"title": "design guidelines",
 			"desc": "design guidelines",
 			"children": {
-				"Logo Guideline": {
-					"title": "Logo Guideline",
-					"desc": "Logo Guideline"
-				},
-				"AX Guideline": {
-					"title": "AX Guideline",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
+				"Type Guideline ": {
+					"title": "Type Guideline ",
+					"desc": "Type Guideline "
 				},
 				"Grid & Layout ": {
 					"title": "Grid & Layout ",
@@ -68,13 +80,21 @@
 					"title": "Color Guideline",
 					"desc": "Color Guideline"
 				},
-				"Index": {
-					"title": "Index",
-					"desc": "Index"
+				"Logo Guideline": {
+					"title": "Logo Guideline",
+					"desc": "Logo Guideline"
 				},
 				"Illustration Guideline ": {
 					"title": "Illustration Guideline ",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"AX Guideline": {
+					"title": "AX Guideline",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
+				},
+				"Index": {
+					"title": "Index",
+					"desc": "Index"
 				}
 			}
 		}
