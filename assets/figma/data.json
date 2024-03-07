@@ -6,14 +6,6 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"Checkbox": {
-					"title": "Checkbox",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
-				},
-				"Test": {
-					"title": "Test",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
 				"Index ": {
 					"title": "Index ",
 					"desc": "Index "
@@ -26,21 +18,29 @@
 					"title": "Badge",
 					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
-				"🟢 Tab ": {
-					"title": "🟢 Tab ",
-					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				"Checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				},
+				"Test": {
+					"title": "Test",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
 				"🟢 Stepper (tables)": {
 					"title": "🟢 Stepper (tables)",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
-				"Templates ": {
-					"title": "Templates ",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
 				"Avatar": {
 					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				},
+				"🟢 Tab ": {
+					"title": "🟢 Tab ",
+					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				},
+				"Templates ": {
+					"title": "Templates ",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
 				"🟠 Select": {
 					"title": "🟠 Select",
@@ -56,29 +56,29 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"Logo Guideline": {
-					"title": "Logo Guideline",
-					"desc": "Logo Guideline"
-				},
-				"Index": {
-					"title": "Index",
-					"desc": "Index"
-				},
 				"Type Guideline ": {
 					"title": "Type Guideline ",
 					"desc": "Type Guideline "
 				},
-				"Color Guideline": {
-					"title": "Color Guideline",
-					"desc": "Color Guideline"
+				"Logo Guideline": {
+					"title": "Logo Guideline",
+					"desc": "Logo Guideline"
+				},
+				"AX Guideline": {
+					"title": "AX Guideline",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"Grid & Layout ": {
 					"title": "Grid & Layout ",
 					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
-				"AX Guideline": {
-					"title": "AX Guideline",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
+				"Index": {
+					"title": "Index",
+					"desc": "Index"
+				},
+				"Color Guideline": {
+					"title": "Color Guideline",
+					"desc": "Color Guideline"
 				},
 				"Illustration Guideline ": {
 					"title": "Illustration Guideline ",
