@@ -6,57 +6,49 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"🟢 Progress Bar ": {
-					"title": "🟢 Progress Bar ",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
-				"Index (WIP)": {
-					"title": "Index (WIP)",
-					"desc": "Index (WIP)"
-				},
 				"Badge": {
 					"title": "Badge",
-					"desc": "Badge"
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
-				"Checkbox": {
-					"title": "Checkbox",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				"Index ": {
+					"title": "Index ",
+					"desc": "Index "
 				},
 				"Test": {
 					"title": "Test",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"Avatar": {
-					"title": "Avatar",
-					"desc": "Avatar"
+				"🟢 Progress Bar ": {
+					"title": "🟢 Progress Bar ",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
-				"🟢 Stepper (redo-tables)": {
-					"title": "🟢 Stepper (redo-tables)",
-					"desc": "🟢 Stepper (redo-tables)"
+				"Checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
 				"🟢 Tab ": {
 					"title": "🟢 Tab ",
 					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
 				},
+				"🟢 Stepper (tables)": {
+					"title": "🟢 Stepper (tables)",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
+				},
+				"Avatar": {
+					"title": "Avatar",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				},
 				"Templates ": {
 					"title": "Templates ",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"Select  (img and tble review)": {
-					"title": "Select  (img and tble review)",
-					"desc": "Select  (img and tble review)"
+				"🟠 Select": {
+					"title": "🟠 Select",
+					"desc": "Selects present a list of options from which a user can select one option, or several. A selected option can represent a value in a form, or can be used as an action to filter or sort existing content."
 				},
-				"Toast (Comp Review)": {
-					"title": "Toast (Comp Review)",
-					"desc": "Toast (Comp Review)"
-				},
-				"List (Component review)": {
-					"title": "List (Component review)",
-					"desc": "List (Component review)"
-				},
-				"Search (Migration Review)": {
-					"title": "Search (Migration Review)",
-					"desc": "Search (Migration Review)"
+				"🟠 Search (Review)": {
+					"title": "🟠 Search (Review)",
+					"desc": "🟠 Search (Review)"
 				}
 			}
 		},
@@ -68,29 +60,29 @@
 					"title": "Logo Guideline",
 					"desc": "Logo Guideline"
 				},
-				"Grid & Layout ": {
-					"title": "Grid & Layout ",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				"AX Guideline": {
+					"title": "AX Guideline",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"Index": {
 					"title": "Index",
 					"desc": "Index"
 				},
-				"Color Guideline": {
-					"title": "Color Guideline",
-					"desc": "Color Guideline"
-				},
-				"AX Guideline": {
-					"title": "AX Guideline",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
-				},
-				"Illustration Guideline ": {
-					"title": "Illustration Guideline ",
-					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				"Grid & Layout ": {
+					"title": "Grid & Layout ",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"Type Guideline ": {
 					"title": "Type Guideline ",
 					"desc": "Type Guideline "
+				},
+				"Color Guideline": {
+					"title": "Color Guideline",
+					"desc": "Color Guideline"
+				},
+				"Illustration Guideline ": {
+					"title": "Illustration Guideline ",
+					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
 				}
 			}
 		}
