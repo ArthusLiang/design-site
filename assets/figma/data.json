@@ -6,40 +6,40 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"Badge": {
-					"title": "Badge",
-					"desc": "Badge"
+				"🟢 Progress Bar ": {
+					"title": "🟢 Progress Bar ",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
 				"Index (WIP)": {
 					"title": "Index (WIP)",
 					"desc": "Index (WIP)"
 				},
-				"🟢 Progress Bar ": {
-					"title": "🟢 Progress Bar ",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				"Badge": {
+					"title": "Badge",
+					"desc": "Badge"
 				},
 				"Checkbox": {
 					"title": "Checkbox",
 					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
-				"🟢 Stepper (redo-tables)": {
-					"title": "🟢 Stepper (redo-tables)",
-					"desc": "🟢 Stepper (redo-tables)"
+				"Test": {
+					"title": "Test",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
 				"Avatar": {
 					"title": "Avatar",
 					"desc": "Avatar"
 				},
-				"Templates ": {
-					"title": "Templates ",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				"🟢 Stepper (redo-tables)": {
+					"title": "🟢 Stepper (redo-tables)",
+					"desc": "🟢 Stepper (redo-tables)"
 				},
 				"🟢 Tab ": {
 					"title": "🟢 Tab ",
 					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
 				},
-				"Test": {
-					"title": "Test",
+				"Templates ": {
+					"title": "Templates ",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
 				"Select  (img and tble review)": {
@@ -64,33 +64,33 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"AX Guideline": {
-					"title": "AX Guideline",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
+				"Logo Guideline": {
+					"title": "Logo Guideline",
+					"desc": "Logo Guideline"
 				},
-				"Type Guideline ": {
-					"title": "Type Guideline ",
-					"desc": "Type Guideline "
+				"Grid & Layout ": {
+					"title": "Grid & Layout ",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"Index": {
 					"title": "Index",
 					"desc": "Index"
 				},
-				"Logo Guideline": {
-					"title": "Logo Guideline",
-					"desc": "Logo Guideline"
-				},
 				"Color Guideline": {
 					"title": "Color Guideline",
 					"desc": "Color Guideline"
+				},
+				"AX Guideline": {
+					"title": "AX Guideline",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"Illustration Guideline ": {
 					"title": "Illustration Guideline ",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
 				},
-				"Grid & Layout ": {
-					"title": "Grid & Layout ",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				"Type Guideline ": {
+					"title": "Type Guideline ",
+					"desc": "Type Guideline "
 				}
 			}
 		}
