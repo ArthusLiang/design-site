@@ -6,10 +6,6 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"Test": {
-					"title": "Test",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
 				"Index": {
 					"title": "Index",
 					"desc": "Index"
@@ -18,33 +14,37 @@
 					"title": "Checkbox",
 					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
+				"🟢 Progress Bar ": {
+					"title": "🟢 Progress Bar ",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				},
+				"Test": {
+					"title": "Test",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
 				"Badge": {
 					"title": "Badge",
 					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
-				},
-				"🟢 Stepper (tables)": {
-					"title": "🟢 Stepper (tables)",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
 				"Avatar": {
 					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
-				"🟢 Progress Bar ": {
-					"title": "🟢 Progress Bar ",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
-				"🟢 Tab ": {
-					"title": "🟢 Tab ",
-					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				"🟢 Stepper (tables)": {
+					"title": "🟢 Stepper (tables)",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
 				"Templates ": {
 					"title": "Templates ",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
+				"🟢 Tab ": {
+					"title": "🟢 Tab ",
+					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				},
 				"🟠 Select": {
 					"title": "🟠 Select",
-					"desc": "🟠 Select"
+					"desc": "Selects present a list of options from which a user can select one option, or several. A selected option can represent a value in a form, or can be used as an action to filter or sort existing content."
 				},
 				"🟠 Search": {
 					"title": "🟠 Search",
@@ -56,13 +56,13 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"Type Guideline ": {
-					"title": "Type Guideline ",
-					"desc": "Type Guideline "
-				},
 				"Logo Guideline": {
 					"title": "Logo Guideline",
 					"desc": "Logo Guideline"
+				},
+				"Grid & Layout ": {
+					"title": "Grid & Layout ",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"AX Guideline": {
 					"title": "AX Guideline",
@@ -72,9 +72,9 @@
 					"title": "Index",
 					"desc": "Index"
 				},
-				"Grid & Layout ": {
-					"title": "Grid & Layout ",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				"Type Guideline ": {
+					"title": "Type Guideline ",
+					"desc": "Type Guideline "
 				},
 				"Color Guideline": {
 					"title": "Color Guideline",
