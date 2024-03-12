@@ -6,21 +6,33 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"checkbox": {
-					"title": "Checkbox",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				"test": {
+					"title": "Test",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
+				"🟢_progress_bar": {
+					"title": "🟢 Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				},
+				"avatar": {
+					"title": "Avatar",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"🟢_stepper_(tables)": {
 					"title": "🟢 Stepper (tables)",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
-				"test": {
-					"title": "Test",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				"🟢_tab": {
+					"title": "🟢 Tab",
+					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
 				},
 				"templates": {
 					"title": "Templates",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
+				"checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
 				"index": {
 					"title": "Index",
@@ -30,21 +42,9 @@
 					"title": "Badge",
 					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
-				"avatar": {
-					"title": "Avatar",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
-				},
 				"🟠_select": {
 					"title": "🟠 Select",
 					"desc": "Selects present a list of options from which a user can select one option, or several. A selected option can represent a value in a form, or can be used as an action to filter or sort existing content."
-				},
-				"🟢_progress_bar": {
-					"title": "🟢 Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
-				"🟢_tab": {
-					"title": "🟢 Tab",
-					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
 				},
 				"🟠_search": {
 					"title": "🟠 Search",
@@ -56,29 +56,29 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"logo_guideline": {
-					"title": "Logo Guideline",
-					"desc": "Logo Guideline"
-				},
-				"grid_&_layout": {
-					"title": "Grid & Layout",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
-				},
-				"type_guideline": {
-					"title": "Type Guideline",
-					"desc": "Type Guideline"
+				"index": {
+					"title": "Index",
+					"desc": "Index"
 				},
 				"ax_guideline": {
 					"title": "AX Guideline",
 					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
+				"type_guideline": {
+					"title": "Type Guideline",
+					"desc": "Type Guideline"
+				},
+				"logo_guideline": {
+					"title": "Logo Guideline",
+					"desc": "Logo Guideline"
+				},
 				"color_guideline": {
 					"title": "Color Guideline",
 					"desc": "Color Guideline"
 				},
-				"index": {
-					"title": "Index",
-					"desc": "Index"
+				"grid_&_layout": {
+					"title": "Grid & Layout",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"illustration_guideline": {
 					"title": "Illustration Guideline",
