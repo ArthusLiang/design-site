@@ -10,9 +10,21 @@
 					"title": "Test",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
+				"index": {
+					"title": "Index",
+					"desc": "Index"
+				},
 				"🟢_progress_bar": {
 					"title": "🟢 Progress Bar",
 					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				},
+				"🟢_stepper_(tables)": {
+					"title": "🟢 Stepper (tables)",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
+				},
+				"🟢_tab": {
+					"title": "🟢 Tab",
+					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
 				},
 				"badge": {
 					"title": "Badge",
@@ -25,18 +37,6 @@
 				"checkbox": {
 					"title": "Checkbox",
 					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
-				},
-				"🟢_stepper_(tables)": {
-					"title": "🟢 Stepper (tables)",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
-				},
-				"🟢_tab": {
-					"title": "🟢 Tab",
-					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
-				},
-				"index": {
-					"title": "Index",
-					"desc": "Index"
 				},
 				"templates": {
 					"title": "Templates",
@@ -56,6 +56,10 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
+				"type_guideline": {
+					"title": "Type Guideline",
+					"desc": "Type Guideline"
+				},
 				"logo_guideline": {
 					"title": "Logo Guideline",
 					"desc": "Logo Guideline"
@@ -64,18 +68,6 @@
 					"title": "Grid & Layout",
 					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
-				"ax_guideline": {
-					"title": "AX Guideline",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
-				},
-				"color_guideline": {
-					"title": "Color Guideline",
-					"desc": "Color Guideline"
-				},
-				"type_guideline": {
-					"title": "Type Guideline",
-					"desc": "Type Guideline"
-				},
 				"index": {
 					"title": "Index",
 					"desc": "Index"
@@ -83,6 +75,14 @@
 				"illustration_guideline": {
 					"title": "Illustration Guideline",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"color_guideline": {
+					"title": "Color Guideline",
+					"desc": "Color Guideline"
+				},
+				"ax_guideline": {
+					"title": "AX Guideline",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				}
 			}
 		},
