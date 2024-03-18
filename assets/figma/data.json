@@ -10,13 +10,13 @@
 					"title": "Test",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"badge": {
-					"title": "Badge",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
-				},
 				"index": {
 					"title": "Index",
 					"desc": "Index"
+				},
+				"progress_bar": {
+					"title": "Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
 				"checkbox": {
 					"title": "Checkbox",
@@ -26,17 +26,17 @@
 					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
-				"progress_bar": {
-					"title": "Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				"stepper": {
+					"title": "Stepper",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
 				"templates": {
 					"title": "Templates",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"stepper": {
-					"title": "Stepper",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
+				"badge": {
+					"title": "Badge",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
 				"🟠_select": {
 					"title": "🟠 Select",
