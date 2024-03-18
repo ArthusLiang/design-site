@@ -14,17 +14,25 @@
 					"title": "Index",
 					"desc": "Index"
 				},
-				"progress_bar": {
-					"title": "Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
 				"badge": {
 					"title": "Badge",
 					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
+				"stepper": {
+					"title": "Stepper",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
+				},
 				"🟢_tab": {
 					"title": "🟢 Tab",
 					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				},
+				"avatar": {
+					"title": "Avatar",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				},
+				"progress_bar": {
+					"title": "Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
 				"checkbox": {
 					"title": "Checkbox",
@@ -33,14 +41,6 @@
 				"templates": {
 					"title": "Templates",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
-				"🟢_stepper": {
-					"title": "🟢 Stepper",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
-				},
-				"avatar": {
-					"title": "Avatar",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"🟠_select": {
 					"title": "🟠 Select",
@@ -56,33 +56,33 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"ax_guideline": {
-					"title": "AX Guideline",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
-				},
-				"type_guideline": {
-					"title": "Type Guideline",
-					"desc": "Type Guideline"
-				},
-				"index": {
-					"title": "Index",
-					"desc": "Index"
-				},
 				"logo_guideline": {
 					"title": "Logo Guideline",
 					"desc": "Logo Guideline"
 				},
-				"grid_&_layout": {
-					"title": "Grid & Layout",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				"ax_guideline": {
+					"title": "AX Guideline",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"illustration_guideline": {
 					"title": "Illustration Guideline",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
 				},
+				"index": {
+					"title": "Index",
+					"desc": "Index"
+				},
 				"color_guideline": {
 					"title": "Color Guideline",
 					"desc": "Color Guideline"
+				},
+				"type_guideline": {
+					"title": "Type Guideline",
+					"desc": "Type Guideline"
+				},
+				"grid_&_layout": {
+					"title": "Grid & Layout",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				}
 			}
 		},
