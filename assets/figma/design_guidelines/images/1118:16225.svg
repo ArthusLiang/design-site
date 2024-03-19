@@ -2,7 +2,7 @@
 <rect width="559" height="340" rx="24" fill="#262626"/>
 <rect x="39.5735" y="40" width="302.079" height="93.9802" rx="4" fill="url(#pattern0)"/>
 <path d="M292.58 114.149C292.58 115.621 291.386 116.815 289.913 116.815C288.44 116.815 287.246 115.621 287.246 114.149C287.246 112.676 288.44 111.482 289.913 111.482C291.386 111.482 292.58 112.676 292.58 114.149ZM362.761 190.33C362.761 191.803 361.567 192.997 360.095 192.997C358.622 192.997 357.428 191.803 357.428 190.33C357.428 188.858 358.622 187.664 360.095 187.664C361.567 187.664 362.761 188.858 362.761 190.33ZM290.281 113.81L360.462 189.992L359.727 190.669L289.545 114.487L290.281 113.81Z" fill="#BABABA"/>
-<path d="M280.621 86.9902C280.621 88.463 279.427 89.6569 277.954 89.6569C276.482 89.6569 275.288 88.463 275.288 86.9902C275.288 85.5175 276.482 84.3236 277.954 84.3236C279.427 84.3236 280.621 85.5175 280.621 86.9902ZM362.761 88.9003C362.761 90.373 361.567 91.5669 360.095 91.5669C358.622 91.5669 357.428 90.373 357.428 88.9003C357.428 87.4275 358.622 86.2336 360.095 86.2336C361.567 86.2336 362.761 87.4275 362.761 88.9003ZM277.966 86.4904L360.106 88.4004L360.083 89.4001L277.943 87.4901L277.966 86.4904Z" fill="#BABABA"/>
+<path d="M280.621 86.9901C280.621 88.4629 279.427 89.6568 277.954 89.6568C276.482 89.6568 275.288 88.4629 275.288 86.9901C275.288 85.5174 276.482 84.3234 277.954 84.3234C279.427 84.3234 280.621 85.5174 280.621 86.9901ZM362.761 88.9001C362.761 90.3729 361.567 91.5668 360.095 91.5668C358.622 91.5668 357.428 90.3729 357.428 88.9001C357.428 87.4274 358.622 86.2335 360.095 86.2335C361.567 86.2335 362.761 87.4274 362.761 88.9001ZM277.966 86.4902L360.106 88.4003L360.083 89.4L277.943 87.49L277.966 86.4902Z" fill="#BABABA"/>
 <g filter="url(#filter0_dd_1118_16225)">
 <rect x="368.291" y="68.4092" width="151.136" height="48.1228" rx="2" fill="url(#pattern1)"/>
 </g>
@@ -13,7 +13,7 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_1118_16225" transform="matrix(0.00138889 0 0 0.00446429 -0.0277778 -0.0714286)"/>
 </pattern>
-<filter id="filter0_dd_1118_16225" x="352.291" y="60.4092" width="183.135" height="80.1228" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_dd_1118_16225" x="352.291" y="60.4092" width="183.136" height="80.1228" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -30,7 +30,7 @@
 <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1_1118_16225" transform="matrix(0.00248756 0 0 0.0078125 -0.141791 -0.484375)"/>
 </pattern>
-<filter id="filter1_dd_1118_16225" x="352.291" y="134.849" width="183.135" height="189.151" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_dd_1118_16225" x="352.291" y="134.849" width="183.136" height="189.151" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
