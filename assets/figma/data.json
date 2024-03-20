@@ -6,9 +6,9 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"test": {
-					"title": "Test",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				"index": {
+					"title": "Index",
+					"desc": "Index"
 				},
 				"checkbox": {
 					"title": "Checkbox",
@@ -22,29 +22,29 @@
 					"title": "Progress Bar",
 					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
+				"test": {
+					"title": "Test",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
 				"avatar": {
 					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
-				},
-				"stepper": {
-					"title": "Stepper",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
-				},
-				"index": {
-					"title": "Index",
-					"desc": "Index"
 				},
 				"templates": {
 					"title": "Templates",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"🟠_search": {
-					"title": "🟠 Search",
-					"desc": "Search offers users a way to explore a website or application using keywords. Search can be used as the primary means of discovering content or as a filter to aid the user in finding content."
+				"stepper": {
+					"title": "Stepper",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
 				"🟠_select": {
 					"title": "🟠 Select",
 					"desc": "Selects present a list of options from which a user can select one option, or several. A selected option can represent a value in a form, or can be used as an action to filter or sort existing content."
+				},
+				"🟠_search": {
+					"title": "🟠 Search",
+					"desc": "Search offers users a way to explore a website or application using keywords. Search can be used as the primary means of discovering content or as a filter to aid the user in finding content."
 				},
 				"toggle": {
 					"title": "Toggle",
@@ -64,6 +64,18 @@
 					"title": "AX Guideline",
 					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
+				"index": {
+					"title": "Index",
+					"desc": "Index"
+				},
+				"illustration_guideline": {
+					"title": "Illustration Guideline",
+					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"grid_&_layout": {
+					"title": "Grid & Layout",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				},
 				"logo_guideline": {
 					"title": "Logo Guideline",
 					"desc": "Logo Guideline"
@@ -72,21 +84,9 @@
 					"title": "Type Guideline",
 					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
 				},
-				"grid_&_layout": {
-					"title": "Grid & Layout",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
-				},
-				"index": {
-					"title": "Index",
-					"desc": "Index"
-				},
 				"color_guideline": {
 					"title": "Color Guideline",
 					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
-				},
-				"illustration_guideline": {
-					"title": "Illustration Guideline",
-					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
 				}
 			}
 		},
