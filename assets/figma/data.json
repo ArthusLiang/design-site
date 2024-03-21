@@ -6,14 +6,6 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"badge": {
-					"title": "Badge",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
-				},
-				"test": {
-					"title": "Test",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
 				"checkbox": {
 					"title": "Checkbox",
 					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
@@ -22,13 +14,17 @@
 					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
-				"progress_bar": {
-					"title": "Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
 				"index": {
 					"title": "Index",
 					"desc": "Index"
+				},
+				"🟠_search": {
+					"title": "🟠 Search",
+					"desc": "Search offers users a way to explore a website or application using keywords. Search can be used as the primary means of discovering content or as a filter to aid the user in finding content."
+				},
+				"progress_bar": {
+					"title": "Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
 				"dialog": {
 					"title": "Dialog",
@@ -38,9 +34,13 @@
 					"title": "Templates",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"🟠_search": {
-					"title": "🟠 Search",
-					"desc": "Search offers users a way to explore a website or application using keywords. Search can be used as the primary means of discovering content or as a filter to aid the user in finding content."
+				"test": {
+					"title": "Test",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
+				"badge": {
+					"title": "Badge",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
 				"🟠_select": {
 					"title": "🟠 Select",
@@ -50,13 +50,13 @@
 					"title": "Toggle",
 					"desc": "A toggle is used to switch between two possible states, commonly used for turning on/off certain features or views."
 				},
-				"🟢_tab": {
-					"title": "🟢 Tab",
-					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
-				},
 				"stepper": {
 					"title": "Stepper",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
+				},
+				"🟢_tab": {
+					"title": "🟢 Tab",
+					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
 				}
 			}
 		},
@@ -64,25 +64,13 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"type_guideline": {
-					"title": "Type Guideline",
-					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
-				},
-				"ax_guideline": {
-					"title": "AX Guideline",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
-				},
 				"index": {
 					"title": "Index",
 					"desc": "Index"
 				},
-				"grid_&_layout": {
-					"title": "Grid & Layout",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
-				},
-				"logo_guideline": {
-					"title": "Logo Guideline",
-					"desc": "Logo Guideline"
+				"ax_guideline": {
+					"title": "AX Guideline",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"color_guideline": {
 					"title": "Color Guideline",
@@ -91,6 +79,18 @@
 				"illustration_guideline": {
 					"title": "Illustration Guideline",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"grid_&_layout": {
+					"title": "Grid & Layout",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				},
+				"type_guideline": {
+					"title": "Type Guideline",
+					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
+				},
+				"logo_guideline": {
+					"title": "Logo Guideline",
+					"desc": "Logo Guideline"
 				}
 			}
 		},
