@@ -6,6 +6,10 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
+				"badge": {
+					"title": "Badge",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
+				},
 				"test": {
 					"title": "Test",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
@@ -18,18 +22,6 @@
 					"title": "Checkbox",
 					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
-				"progress_bar": {
-					"title": "Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
-				"badge": {
-					"title": "Badge",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
-				},
-				"avatar": {
-					"title": "Avatar",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
-				},
 				"dialog": {
 					"title": "Dialog",
 					"desc": "Dialogs are temporary overlay announcement or command,  on top of the main content of a webpage or application. "
@@ -38,25 +30,33 @@
 					"title": "Templates",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
 				},
-				"🟠_select": {
-					"title": "🟠 Select",
-					"desc": "Selects present a list of options from which a user can select one option, or several. A selected option can represent a value in a form, or can be used as an action to filter or sort existing content."
-				},
-				"🟠_search": {
-					"title": "🟠 Search",
-					"desc": "Search offers users a way to explore a website or application using keywords. Search can be used as the primary means of discovering content or as a filter to aid the user in finding content."
+				"avatar": {
+					"title": "Avatar",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"stepper": {
 					"title": "Stepper",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
-				"toggle": {
-					"title": "Toggle",
-					"desc": "A toggle is used to switch between two possible states, commonly used for turning on/off certain features or views."
+				"progress_bar": {
+					"title": "Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				},
+				"🟠_search": {
+					"title": "🟠 Search",
+					"desc": "Search offers users a way to explore a website or application using keywords. Search can be used as the primary means of discovering content or as a filter to aid the user in finding content."
 				},
 				"🟢_tab": {
 					"title": "🟢 Tab",
 					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				},
+				"toggle": {
+					"title": "Toggle",
+					"desc": "A toggle is used to switch between two possible states, commonly used for turning on/off certain features or views."
+				},
+				"🟠_select": {
+					"title": "🟠 Select",
+					"desc": "Selects present a list of options from which a user can select one option, or several. A selected option can represent a value in a form, or can be used as an action to filter or sort existing content."
 				}
 			}
 		},
@@ -64,17 +64,21 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"logo_guideline": {
-					"title": "Logo Guideline",
-					"desc": "Logo Guideline"
-				},
 				"index": {
 					"title": "Index",
 					"desc": "Index"
 				},
+				"logo_guideline": {
+					"title": "Logo Guideline",
+					"desc": "Logo Guideline"
+				},
 				"grid_&_layout": {
 					"title": "Grid & Layout",
 					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				},
+				"illustration_guideline": {
+					"title": "Illustration Guideline",
+					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
 				},
 				"ax_guideline": {
 					"title": "AX Guideline",
@@ -91,10 +95,6 @@
 				"color_guideline": {
 					"title": "Color Guideline",
 					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
-				},
-				"illustration_guideline": {
-					"title": "Illustration Guideline",
-					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
 				}
 			}
 		},
