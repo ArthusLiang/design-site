@@ -6,13 +6,9 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"index": {
-					"title": "Index",
-					"desc": "Index"
-				},
-				"progress_bar": {
-					"title": "Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				"test": {
+					"title": "Test",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"spinner": {
 					"title": "Spinner",
@@ -22,17 +18,21 @@
 					"title": "Badge",
 					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
-				"test": {
-					"title": "Test",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				"index": {
+					"title": "Index",
+					"desc": "Index"
 				},
-				"avatar": {
-					"title": "Avatar",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				"progress_bar": {
+					"title": "Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
 				"checkbox": {
 					"title": "Checkbox",
 					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				},
+				"avatar": {
+					"title": "Avatar",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"stepper": {
 					"title": "Stepper",
@@ -60,29 +60,29 @@
 					"title": "Index",
 					"desc": "Index"
 				},
-				"accessibility": {
-					"title": "Accessibility",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
-				},
 				"logo": {
 					"title": "Logo",
 					"desc": "Logo"
-				},
-				"iconography": {
-					"title": "Iconography",
-					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
-				},
-				"layout": {
-					"title": "Layout",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"typography": {
 					"title": "Typography",
 					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
 				},
+				"iconography": {
+					"title": "Iconography",
+					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
+				},
+				"accessibility": {
+					"title": "Accessibility",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
+				},
 				"illustration": {
 					"title": "Illustration",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"layout": {
+					"title": "Layout",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"color": {
 					"title": "Color",
