@@ -1,6 +1,6 @@
 <svg width="1166" height="776" viewBox="0 0 1166 776" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_dd_1259_1352)">
-<rect x="8" y="4" width="1150" height="760" rx="16" fill="url(#paint0_linear_1259_1352)"/>
+<rect x="8" y="4" width="1150" height="760" rx="16" fill="#1A1A1A"/>
 <rect x="28" y="24" width="22.1262" height="720" fill="#F55868" fill-opacity="0.4"/>
 <rect x="1115.87" y="24" width="22.1262" height="720" fill="#F55868" fill-opacity="0.4"/>
 <rect x="1115.87" y="372" width="24" height="1065.75" transform="rotate(90 1115.87 372)" fill="#F55868" fill-opacity="0.4"/>
@@ -24,9 +24,5 @@
 <feBlend mode="normal" in2="effect1_dropShadow_1259_1352" result="effect2_dropShadow_1259_1352"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_1259_1352" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear_1259_1352" x1="583" y1="4" x2="583" y2="764" gradientUnits="userSpaceOnUse">
-<stop stop-color="#262626"/>
-<stop offset="1" stop-color="#0F0F0F"/>
-</linearGradient>
 </defs>
 </svg>
