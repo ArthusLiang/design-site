@@ -6,45 +6,45 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
-				"checkbox": {
-					"title": "Checkbox",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
-				},
-				"badge": {
-					"title": "Badge",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
-				},
-				"templates": {
-					"title": "Templates",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
 				"spinner": {
 					"title": "Spinner",
 					"desc": "Spinners are used when performing actions cause by the user. Spinner use animation to capture attention and inform users of an activity’s progress. "
-				},
-				"index": {
-					"title": "Index",
-					"desc": "Index"
 				},
 				"dialog": {
 					"title": "Dialog",
 					"desc": "Dialogs are temporary overlay announcement or command,  on top of the main content of a webpage or application. "
 				},
-				"stepper": {
-					"title": "Stepper",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
+				"test": {
+					"title": "Test",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				},
+				"checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
 				},
 				"progress_bar": {
 					"title": "Progress Bar",
 					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
 				},
+				"badge": {
+					"title": "Badge",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
+				},
+				"index": {
+					"title": "Index",
+					"desc": "Index"
+				},
+				"templates": {
+					"title": "Templates",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
 				"avatar": {
 					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
-				"test": {
-					"title": "Test",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				"stepper": {
+					"title": "Stepper",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
 				"toggle": {
 					"title": "Toggle",
@@ -56,37 +56,37 @@
 			"title": "design_guidelines",
 			"desc": "design_guidelines",
 			"children": {
-				"iconography": {
-					"title": "Iconography",
-					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
-				},
-				"index": {
-					"title": "Index",
-					"desc": "Index"
-				},
-				"logo": {
-					"title": "Logo",
-					"desc": "Logo"
-				},
-				"typography": {
-					"title": "Typography",
-					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
+				"accessibility": {
+					"title": "Accessibility",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"layout": {
 					"title": "Layout",
 					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
-				"illustration": {
-					"title": "Illustration",
-					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				"iconography": {
+					"title": "Iconography",
+					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
 				},
-				"accessibility": {
-					"title": "Accessibility",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
+				"logo": {
+					"title": "Logo",
+					"desc": "Logo"
 				},
 				"color": {
 					"title": "Color",
 					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
+				},
+				"illustration": {
+					"title": "Illustration",
+					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"index": {
+					"title": "Index",
+					"desc": "Index"
+				},
+				"typography": {
+					"title": "Typography",
+					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
 				}
 			}
 		},
