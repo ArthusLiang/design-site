@@ -3,7 +3,7 @@
 <g clip-path="url(#clip0_1226_8998)">
 <path d="M514.2 48.2001C514.069 48.2004 513.938 48.1744 513.816 48.1238C513.695 48.0732 513.584 47.9989 513.491 47.9051L506.291 40.6698C506.199 40.5767 506.125 40.4663 506.075 40.3448C506.026 40.2233 506 40.0933 506 39.9619C506.001 39.8306 506.027 39.7007 506.078 39.5795C506.128 39.4583 506.202 39.3483 506.295 39.2557C506.388 39.1631 506.499 39.0898 506.62 39.0399C506.742 38.9899 506.872 38.9644 507.003 38.9648C507.134 38.9652 507.264 38.9914 507.385 39.042C507.507 39.0926 507.617 39.1665 507.709 39.2596L514.254 45.8368L530.35 32.0419C530.551 31.8694 530.813 31.7839 531.077 31.8042C531.341 31.8245 531.587 31.949 531.759 32.1503C531.932 32.3515 532.017 32.613 531.997 32.8773C531.976 33.1416 531.852 33.387 531.651 33.5594L514.851 47.9589C514.67 48.1147 514.439 48.2003 514.2 48.2001Z" fill="url(#paint0_linear_1226_8998)"/>
 <g clip-path="url(#clip1_1226_8998)">
-<rect x="-85.5" y="46" width="760" height="377" fill="url(#pattern0)"/>
+<rect x="-85.5" y="46" width="760" height="377" fill="url(#pattern0_1226_8998)"/>
 <rect width="760" height="377" transform="translate(-85.5 46)" fill="black" fill-opacity="0.8"/>
 <g filter="url(#filter0_dd_1226_8998)">
 <rect x="69.5" y="190" width="450" height="162" rx="8" fill="black"/>
@@ -19,7 +19,7 @@
 </g>
 <path d="M0 471H559C559 483.703 548.703 494 536 494H23C10.2975 494 0 483.703 0 471Z" fill="url(#paint1_linear_1226_8998)"/>
 <defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern0_1226_8998" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_1226_8998" transform="matrix(0.000531963 0 0 0.00107186 -0.453277 -0.294008)"/>
 </pattern>
 <filter id="filter0_dd_1226_8998" x="61.5" y="186" width="466" height="178" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

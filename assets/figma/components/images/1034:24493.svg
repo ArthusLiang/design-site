@@ -9,11 +9,11 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M223.5 121C232.337 121 239.5 113.837 239.5 105C239.5 96.1634 232.337 89 223.5 89C214.663 89 207.5 96.1634 207.5 105C207.5 113.837 214.663 121 223.5 121Z" fill="white"/>
 </mask>
 <g mask="url(#mask0_1034_24493)">
-<rect x="208.5" y="90" width="30" height="30" fill="url(#pattern0)"/>
+<rect x="208.5" y="90" width="30" height="30" fill="url(#pattern0_1034_24493)"/>
 </g>
 <path d="M0 266H559C559 278.703 548.703 289 536 289H23C10.2975 289 0 278.703 0 266Z" fill="url(#paint0_linear_1034_24493)"/>
 <defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern0_1034_24493" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_1034_24493" transform="scale(0.00195312)"/>
 </pattern>
 <linearGradient id="paint0_linear_1034_24493" x1="279.5" y1="266" x2="279.5" y2="289" gradientUnits="userSpaceOnUse">

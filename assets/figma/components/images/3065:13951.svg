@@ -1,6 +1,6 @@
 <svg width="1150" height="600" viewBox="0 0 1150 600" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="1150" height="599.259" rx="16" fill="#1A1A1A"/>
-<rect x="40" y="40" width="1070" height="519.259" fill="url(#pattern0)"/>
+<rect x="40" y="40" width="1070" height="519.259" fill="url(#pattern0_3065_13951)"/>
 <g filter="url(#filter0_dd_3065_13951)">
 <g filter="url(#filter1_dd_3065_13951)">
 <rect x="350" y="210.557" width="450" height="186" rx="8" fill="black"/>
@@ -13,7 +13,7 @@
 </g>
 </g>
 <defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern0_3065_13951" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_3065_13951" transform="scale(0.00033557 0.000641608)"/>
 </pattern>
 <filter id="filter0_dd_3065_13951" x="342" y="206.557" width="466" height="202" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

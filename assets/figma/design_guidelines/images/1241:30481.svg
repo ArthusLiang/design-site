@@ -1,18 +1,18 @@
 <svg width="559" height="179" viewBox="0 0 559 179" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="559" height="179" rx="16" fill="#1A1A1A"/>
-<rect x="185.5" y="60" width="188" height="25" fill="url(#pattern0)"/>
+<rect x="185.5" y="60" width="188" height="25" fill="url(#pattern0_1241_30481)"/>
 <g clip-path="url(#clip0_1241_30481)">
-<rect x="267.5" y="95" width="24" height="24" rx="12" fill="url(#pattern1)"/>
+<rect x="267.5" y="95" width="24" height="24" rx="12" fill="url(#pattern1_1241_30481)"/>
 <circle cx="279.5" cy="107" r="12" fill="black" fill-opacity="0.4"/>
 <circle cx="279.5" cy="107" r="3" fill="#8F8F8F"/>
 <circle cx="287.5" cy="107" r="3" fill="white"/>
 <circle cx="271.5" cy="107" r="3" fill="#8F8F8F"/>
 </g>
 <defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern0_1241_30481" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_1241_30481" transform="matrix(0.000558036 0 0 0.00419643 0 -0.00357143)"/>
 </pattern>
-<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern1_1241_30481" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1_1241_30481" transform="scale(0.00416667)"/>
 </pattern>
 <clipPath id="clip0_1241_30481">
