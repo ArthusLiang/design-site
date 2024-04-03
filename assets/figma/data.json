@@ -6,9 +6,21 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
+				"test": {
+					"title": "Test",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				},
 				"spinner": {
 					"title": "Spinner",
 					"desc": "Spinners are used when performing actions cause by the user. Spinner use animation to capture attention and inform users of an activity’s progress. "
+				},
+				"checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				},
+				"badge": {
+					"title": "Badge",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
 				},
 				"index": {
 					"title": "Index",
@@ -22,22 +34,6 @@
 					"title": "Dialog",
 					"desc": "Dialogs are temporary overlay announcement or command,  on top of the main content of a webpage or application. "
 				},
-				"badge": {
-					"title": "Badge",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
-				},
-				"test": {
-					"title": "Test",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
-				},
-				"checkbox": {
-					"title": "Checkbox",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
-				},
-				"stepper": {
-					"title": "Stepper",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
-				},
 				"avatar": {
 					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
@@ -45,6 +41,10 @@
 				"templates": {
 					"title": "Templates",
 					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
+				"stepper": {
+					"title": "Stepper",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				},
 				"toggle": {
 					"title": "Toggle",
@@ -60,37 +60,37 @@
 					"title": "Index",
 					"desc": "Index"
 				},
-				"accessibility": {
-					"title": "Accessibility",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
-				},
 				"logo": {
 					"title": "Logo",
 					"desc": "Logo"
 				},
-				"layout": {
-					"title": "Layout",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
+				"accessibility": {
+					"title": "Accessibility",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"typography": {
 					"title": "Typography",
 					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
 				},
-				"color": {
-					"title": "Color",
-					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
-				},
 				"iconography": {
 					"title": "Iconography",
 					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
 				},
-				"illustration": {
-					"title": "Illustration",
-					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				"layout": {
+					"title": "Layout",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				},
 				"color_token": {
 					"title": "Color Token",
 					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
+				},
+				"color": {
+					"title": "Color",
+					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
+				},
+				"illustration": {
+					"title": "Illustration",
+					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
 				}
 			}
 		},
