@@ -1,9 +1,9 @@
-<svg width="559" height="261" viewBox="0 0 559 261" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="559" height="261" rx="16" fill="#1A1A1A"/>
-<rect x="218.5" y="62" width="122" height="137" stroke="white" stroke-opacity="0.95"/>
-<rect x="227.034" y="69.5338" width="104.932" height="121.932" stroke="#CACACA" stroke-width="2.06762"/>
-<path d="M218.5 32V62H188.5" stroke="white" stroke-opacity="0.95"/>
-<path d="M370.5 62L340.5 62L340.5 32" stroke="white" stroke-opacity="0.95"/>
-<path d="M340.5 229L340.5 199L370.5 199" stroke="white" stroke-opacity="0.95"/>
-<path d="M188.5 199L218.5 199L218.5 229" stroke="white" stroke-opacity="0.95"/>
+<svg width="559" height="317" viewBox="0 0 559 317" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="559" height="317" rx="16" fill="#1A1A1A"/>
+<rect x="218.5" y="90" width="122" height="137" stroke="white" stroke-opacity="0.95"/>
+<rect x="227.034" y="97.5338" width="104.932" height="121.932" stroke="#CACACA" stroke-width="2.06762"/>
+<path d="M218.5 60V90H188.5" stroke="white" stroke-opacity="0.95"/>
+<path d="M370.5 90L340.5 90L340.5 60" stroke="white" stroke-opacity="0.95"/>
+<path d="M340.5 257L340.5 227L370.5 227" stroke="white" stroke-opacity="0.95"/>
+<path d="M188.5 227L218.5 227L218.5 257" stroke="white" stroke-opacity="0.95"/>
 </svg>
