@@ -6,8 +6,28 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
+				"checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				},
+				"badge": {
+					"title": "Badge",
+					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
+				},
+				"progress_bar": {
+					"title": "Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				},
 				"test": {
 					"title": "Test",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				},
+				"templates": {
+					"title": "Templates",
+					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
+				},
+				"avatar": {
+					"title": "Avatar",
 					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"spinner": {
@@ -18,33 +38,13 @@
 					"title": "Index",
 					"desc": "Index"
 				},
-				"badge": {
-					"title": "Badge",
-					"desc": "Badges convey dynamic, temporary information, such as counts or status. A badge can include labels or numbers. "
-				},
-				"progress_bar": {
-					"title": "Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
 				"dialog": {
 					"title": "Dialog",
 					"desc": "Dialogs are temporary overlay announcement or command,  on top of the main content of a webpage or application. "
 				},
-				"checkbox": {
-					"title": "Checkbox",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
-				},
 				"stepper": {
 					"title": "Stepper",
 					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
-				},
-				"templates": {
-					"title": "Templates",
-					"desc": "Brief description about the guideline. User or reference the description text that exists under Overview of the documentation"
-				},
-				"avatar": {
-					"title": "Avatar",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
 				},
 				"toggle": {
 					"title": "Toggle",
@@ -52,45 +52,45 @@
 				}
 			}
 		},
-		"design_guidelines": {
-			"title": "design_guidelines",
-			"desc": "design_guidelines",
+		"guidelines": {
+			"title": "guidelines",
+			"desc": "guidelines",
 			"children": {
-				"logo": {
-					"title": "Logo",
-					"desc": "Logo"
-				},
 				"index": {
 					"title": "Index",
 					"desc": "Index"
 				},
-				"typography": {
-					"title": "Typography",
-					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
-				},
-				"motion": {
-					"title": "Motion",
-					"desc": "Momentum's motion design enhances interactions, bridging the gap between humans and interfaces.  Without it, interactions feel robotic, lacking the expected flow."
-				},
-				"grid_&_layout": {
-					"title": "Grid & Layout",
-					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
-				},
-				"color": {
-					"title": "Color",
-					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
+				"logo": {
+					"title": "Logo",
+					"desc": "Logo"
 				},
 				"iconography": {
 					"title": "Iconography",
+					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
+				},
+				"typography": {
+					"title": "Typography",
 					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
 				},
 				"accessibility": {
 					"title": "Accessibility",
 					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
+				"motion": {
+					"title": "Motion",
+					"desc": "Momentum's motion design enhances interactions, bridging the gap between humans and interfaces.  Without it, interactions feel robotic, lacking the expected flow."
+				},
+				"color": {
+					"title": "Color",
+					"desc": "Color creates meaning and communicates hierarchy, state, and brand. Momentum color palette is timeless, modern and vibrant, like our brand personality. "
+				},
 				"illustration": {
 					"title": "Illustration",
 					"desc": "We simplify complex ideas with our unique illustrations, making them universally clear and memorable, while allowing our brand personality to evolve unexpectedly."
+				},
+				"grid_&_layout": {
+					"title": "Grid & Layout",
+					"desc": "The Grid is an overarching guide to the placement of components and elements. Aligning to the grid ensures consistency, visual balance and rhythm."
 				}
 			}
 		},
@@ -104,9 +104,19 @@
 				}
 			}
 		},
-		"momentum_philosophy": {
-			"title": "momentum_philosophy",
-			"desc": "momentum_philosophy",
+		"support": {
+			"title": "support",
+			"desc": "support",
+			"children": {
+				"index": {
+					"title": "Index",
+					"desc": "Discover Momentum design system resources, offering support for contribution, bugs and assets such as icons and illustrations."
+				}
+			}
+		},
+		"philosophy": {
+			"title": "philosophy",
+			"desc": "philosophy",
 			"children": {
 				"index": {
 					"title": "Index",
