@@ -16,6 +16,18 @@
 			"title": "components",
 			"desc": "components",
 			"children": {
+				"progress_bar": {
+					"title": "Progress Bar",
+					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
+				},
+				"checkbox": {
+					"title": "Checkbox",
+					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
+				},
+				"avatar": {
+					"title": "Avatar",
+					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
+				},
 				"index": {
 					"title": "Index",
 					"desc": "Index"
@@ -28,29 +40,17 @@
 					"title": "Spinner",
 					"desc": "Spinners are used when performing actions cause by the user. Spinner use animation to capture attention and inform users of an activity’s progress. "
 				},
-				"avatar": {
-					"title": "Avatar",
-					"desc": "Avatars are visual representations of users that leverage images, icons, or text. They also can contain a presence indicator which shows the user’s status on the product. "
-				},
-				"checkbox": {
-					"title": "Checkbox",
-					"desc": "Checkboxes allow users to select multiple options from a list or turn an item/feature on or off. Checkboxes are often used in forms, settings, and selections in lists."
-				},
-				"progress_bar": {
-					"title": "Progress Bar",
-					"desc": "The progress bar is used to visually represent the completion of a both determinate and indeterminate task. It is used to  show how much of the task has been completed and how much is  left. "
-				},
-				"chip": {
-					"title": "Chip",
-					"desc": "Chips are used to show added items within a form, make selections, filter content, or trigger interaction. These items can be valid or invalid."
+				"dialog": {
+					"title": "Dialog",
+					"desc": "Dialogs are temporary overlay announcement or command,  on top of the main content of a webpage or application. "
 				},
 				"decorator": {
 					"title": "Decorator",
 					"desc": "Decorators are non-interactive elements that add visual clarity or separation while minimizing noise or disruption from other elements on the page. "
 				},
-				"dialog": {
-					"title": "Dialog",
-					"desc": "Dialogs are temporary overlay announcement or command,  on top of the main content of a webpage or application. "
+				"chip": {
+					"title": "Chip",
+					"desc": "Chips are used to show added items within a form, make selections, filter content, or trigger interaction. These items can be valid or invalid."
 				},
 				"list": {
 					"title": "List",
@@ -60,13 +60,13 @@
 					"title": "Toggle",
 					"desc": "A toggle is used to switch between two possible states, commonly used for turning on/off certain features or views."
 				},
-				"stepper": {
-					"title": "Stepper",
-					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
-				},
 				"tab": {
 					"title": "Tab",
 					"desc": "Tabs are a navigational component used to organize and navigate between different sections of content. "
+				},
+				"stepper": {
+					"title": "Stepper",
+					"desc": "Steppers is a visual representation of a user’s progress through a set of steps. Each of the steps are guiding toward the completion of a specified process or a task."
 				}
 			}
 		},
@@ -74,33 +74,33 @@
 			"title": "guidelines",
 			"desc": "guidelines",
 			"children": {
-				"index": {
-					"title": "Index",
-					"desc": "Index"
-				},
 				"iconography": {
 					"title": "Iconography",
 					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
-				},
-				"accessibility": {
-					"title": "Accessibility",
-					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"color": {
 					"title": "Color",
 					"desc": "Color"
 				},
+				"index": {
+					"title": "Index",
+					"desc": "Index"
+				},
 				"logo": {
 					"title": "Logo",
 					"desc": "Logo"
 				},
-				"motion": {
-					"title": "Motion",
-					"desc": "Momentum's motion design enhances interactions, bridging the gap between humans and interfaces.  Without it, interactions feel robotic, lacking the expected flow."
+				"accessibility": {
+					"title": "Accessibility",
+					"desc": "Accessibility is the inclusive practice of ensuring that everyone has equal access to information, functionality, and experiences. "
 				},
 				"typography": {
 					"title": "Typography",
 					"desc": "The key goal of our entire visual system is to present information as clearly as possible. Well-executed typography that works within the system creates harmony and balance."
+				},
+				"motion": {
+					"title": "Motion",
+					"desc": "Momentum's motion design enhances interactions, bridging the gap between humans and interfaces.  Without it, interactions feel robotic, lacking the expected flow."
 				},
 				"illustration": {
 					"title": "Illustration",
